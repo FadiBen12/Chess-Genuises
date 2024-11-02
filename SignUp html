@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="shortcut icon" type="x-icon" href="image (1).png">
+    <title>Chess Genuises</title>
+
+<style>
+
+  button {
+color: black;
+
+
+  }
+  a{
+text-decoration: none;
+    color: black;
+  }
+
+
+ 
+</style>
+
+    
+  </head>
+  <body>
+    <div class="loader">
+      <div class="slice"></div>
+      <div class="slice"></div>
+      <div class="slice"></div>
+      <div class="slice"></div>
+      <div class="slice"></div>
+      <div class="slice"></div>
+    </div>
+
+
+    <div class="content" style="display: none;">
+   
+      <a class="card" href="">
+      
+      </a>
+ 
+    </div>
+  
+    <script src="index.js"> </script>
+   
+    
+
+
+
+  
+  
+  
+  
+    <a class="card" href="">
+      <div class="card-image" ></div>
+      <div class="card-text">
+        <span class="date"></span>
+           
+        <h2>We Sell Books</h2> 
+        
+       
+        <p></p>
+      </div>
+      <div class="card-stats">
+        <div class="stat">
+          <div class="value"><sup></sup></div>
+          <div class="type"></div>
+        </div>
+        <div class="stat border">
+          <div class="value"></div>
+          <div class="type"></div>
+        </div>
+        <div class="stat">
+          <div class="value"></div>
+          <div class="type"></div>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="wow.html" >
+      <div class="card-image card2"></div>
+      <div class="card-text card2" >
+        <span class="date"></span>
+        <h2>We Teach Others</h2>
+        
+
+         <div class="button"> 
+           <a<h2>Click Here</h2>   </div>  
+
+      
+
+        <p></p>
+      </div>
+        <div class="card-stats card2">
+        <div class="stat">
+          <div class="value"><sup></sup></div>
+          <div class="type"></div>
+        </div>
+        <div class="stat border">
+          <div class="value"></div>
+          <div class="type"></div>
+        </div>
+        <div class="stat">
+          <div class="value"></div>
+          <div class="type"></div>
+        </div>
+      </div>
+    </a>
+    <a class="card"  href="">
+        <div class="card-image card3"></div>
+        <div class="card-text card3">
+          <span class="date">Coming Soon...</span>
+          <h2>We Do Competetions</h2>
+          <p></p>
+        </div>
+        <div class="card-stats card3">
+          <div class="stat">
+           National
+           Competetions
+          </div>
+          <div class="stat border">
+           World Championships
+          </div>
+          <div class="stat">
+          Every Mounth
+           
+          </div>
+        </div>
+      </a>
+    <script src="vanilla-tilt.min.js"></script>
+    <script>
+      VanillaTilt.init(document.querySelectorAll(".card"),{
+        glare: true,
+        reverse: true,
+        "max-glare": 0.5
+      });
+    </script>
+
+
+
+
+
+ 
+  </body>
+</html>
