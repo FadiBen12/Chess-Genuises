@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" type="x-icon" href="image (1).png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chess Genuises.com</title>
+
+  <!-- styles -->
+  <link rel="stylesheet" href="stilo.css">
+  <link rel="stylesheet" href="animations.css">
+  <link rel="stylesheet" href="responsive.css">
+
+
+
+
+  <style>
+
+body{
+background-image: url(bac\ 4.png);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+padding: 0; }
+
+
+a{
+
+  text-decoration: none;
+}
+
+button{
+color: black;
+    margin: 0 2px 0px;
+    border-color: black;
+    background: local;
+    background: scroll;
+    height: 30px;
+    padding-inline: px;
+    color-scheme: black;
+    flood-color: black;
+    outline-color: black;
+    border-color: black;
+    caret-color: black;
+    accent-color: black;
+    stop-color: black;
+    
+ }
+
+
+
+
+ 
+
+  </style>
+</head>
+
+
+
+
+
+<body>
+  <audio autoplay  autoplay src="Chill Lofi Mix [chill lo-fi hip hop beats].mp3"></audio>
+  
+  <header> 
+          <img src="image (1).png" class="resized-image" width="300px" height="350px">
+    </header>
+  <section id="hero">
+
+    <div class="section-box">
+
+      <div class="content-wrap">
+        <header>
+          <a class="header-logo"><span>Chess</span>Genuises</a>
+          <nav>
+            <a class="nav-items active" href="index.html">What We Do</a>
+            <a class="nav-items" href="signup.html">Sign Up</a>
+            <a class="nav-items">projects</a>
+            <a class="nav-items">resources</a>
+            <a class="nav-items">blog</a>
+            <a class="nav-items">contacts</a>
+          </nav>
+        </header>
+        <div class="hero-content">
+          <h3>Chess</h3>
+          <h1>Genuises</h1>
+          <img src="image (1).png" class="hero-img">
+          <button class="hero-btn">  <a href="wow.html">Want to Relax? 
+           
+          </a>   </button>
+        </div>
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="about">
+    <div class="section-box">
+      <div class="content-grid">
+        <div class="left-grid">
+          <h3 class="section-sub">About us</h3>
+          <h2 class="section-title">Who we are?</h2>
+          <p>
+            Welcome to our Online Chess Club, a 
+            vibrant community for players of all skill levels who are passionate about chess! Whether you're 
+            a beginner eager to learn the basics or an advanced player seeking challenging opponents, our club offers a 
+            space for everyone to connect, learn, and grow. Through regular tournaments, live-streamed games, interactive lessons, and 
+            group analysis sessions, we aim to foster both a love for chess and a supportive learning environment. 
+            Join us to sharpen your skills, make friends, and be part of a global network of chess enthusiasts!
+          </p>
+          <button class="action-btn">Learn More</button>
+        </div>
+
+        <div class="right-grid">
+          <img src="chess teacher.jpg" class="about-img" height="700px" width="200px">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects">
+    <div class="section-box">
+      <div class="content-grid">
+        <div class="right-grid">
+          
+        </div>
+        <div class="left-grid">
+          <h3 class="section-sub">projects</h3>
+          <h2 class="section-title">What we did?</h2>
+          <p>
+            1.We have 4 former American champions , 7 world blitz championships and We have one chess player from the top 10 players in the 
+            world .<br><br>
+
+            2.Each mounth we do competetions between small and big player to make sure they 
+            keep thier reputation .<br><br>
+
+            3.We also feed and giveaway chess books for young kids with a lot of puzzles to make FUTURE BIG MINDS
+          </p>
+          <button class="action-btn">More Achievements</button>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="join-us">
+    <div class="section-box">
+
+      <div class="content-wrap">
+
+        <h3 class="section-sub">join with us</h3>
+        <h2 class="section-title">Be The next Chess Genuis , and Sign Up!</h2>
+
+        <div class="join-form">
+          <input type="text" class="input-1 i1" placeholder="Your Name">
+          <input type="email" class="input-1 i2" placeholder="Your Email">
+          <input type="text" class="input-1 i3" placeholder="Your Number">
+          <input type="text" class="input-1 i4" placeholder="Your Address">
+
+          <p>What Are You?</p>
+          <div class="checkbox-wrap">
+            <label><input type="checkbox">Champion</label>
+            <label><input type="checkbox"> New</label>
+            <label><input type="checkbox"> Okay at chess</label>
+          </div>
+
+          <button class="join-btn">be a member</button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="footer">
+    <div class="section-box">
+      <div class="footer-grid">
+
+        <div>
+          <h3>Quick Links</h3>
+
+          <a class="footer-items f1" href="wow.html">Home</a>
+          <a class="footer-items f2">about us</a>
+          <a class="footer-items f3">projects</a>
+          <a class="footer-items f4">resources</a>
+          <a class="footer-items f5">blog</a>
+          <a class="footer-items f6">contacts</a>
+
+        </div>
+
+        <div>
+          <h3>Contacts</h3>
+
+          <a class="footer-items f1">+213 560098292</a>
+          <a class="footer-items f2">+213 0560090908</a>
+          <a class="footer-items f3">fadyben88@gmail.com</a>
+          <a class="footer-items f4">zwaghi slimane, 
+            constantine</a>
+        </div>
+
+        <div>
+          <h3>Socials</h3>
+
+          <a class="footer-items f1" href="https://github.com/FadiBen12">GitHub</a>
+          <a class="footer-items f3" href="https://www.instagram.com/fadi.benn/">instagram</a>
+          <a class="footer-items f4" href="https://www.chess.com/member/fadibenn1">Chess.com</a>
+      
+        </div>
+
+      </div>
+
+      <p class="copyrights">© fadi.benn | Handed Easy</p>
+    </div>
+  </section>
+
+</body>
+
+</html>
